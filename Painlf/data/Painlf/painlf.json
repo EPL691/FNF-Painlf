@@ -1,0 +1,12211 @@
+{
+	"song": {
+		"player1": "bf",
+		"player2": "mom-car",
+		"notes": [
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						2666.66675,
+						1,
+						0
+					],
+					[
+						3000,
+						1,
+						0
+					],
+					[
+						3333.3335,
+						1,
+						0
+					],
+					[
+						3416.66675,
+						0,
+						0
+					],
+					[
+						3500,
+						3,
+						0
+					],
+					[
+						3583.3335,
+						2,
+						166.666672
+					],
+					[
+						3833.3335,
+						1,
+						0
+					],
+					[
+						2666.66666666667,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						2666.66666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						3000,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						3333.33333333333,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						3333.33333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						3416.66666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						3500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						3583.33333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						3833.33333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						3416.66666666667,
+						4,
+						0,
+						"Questionmark Note"
+					],
+					[
+						3500,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						3583.33333333333,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						3833.33333333333,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						3000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						4166.667,
+						1,
+						0
+					],
+					[
+						4500,
+						1,
+						0
+					],
+					[
+						4666.667,
+						3,
+						0
+					],
+					[
+						4833.3335,
+						1,
+						0
+					],
+					[
+						5000,
+						0,
+						0
+					],
+					[
+						5166.667,
+						1,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						5333.3335,
+						1,
+						0
+					],
+					[
+						5666.667,
+						1,
+						0
+					],
+					[
+						6000,
+						1,
+						0
+					],
+					[
+						6083.3335,
+						0,
+						0
+					],
+					[
+						6166.667,
+						3,
+						0
+					],
+					[
+						6250,
+						2,
+						166.666672
+					],
+					[
+						6500,
+						1,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						6833.3335,
+						1,
+						0
+					],
+					[
+						7166.667,
+						1,
+						0
+					],
+					[
+						7333.3335,
+						3,
+						0
+					],
+					[
+						7500,
+						1,
+						0
+					],
+					[
+						7666.667,
+						2,
+						0
+					],
+					[
+						7750,
+						3,
+						0
+					],
+					[
+						7833.3335,
+						0,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						8000,
+						1,
+						0
+					],
+					[
+						8333.334,
+						1,
+						0
+					],
+					[
+						8666.667,
+						1,
+						0
+					],
+					[
+						8750,
+						0,
+						0
+					],
+					[
+						8833.334,
+						3,
+						0
+					],
+					[
+						8916.667,
+						2,
+						166.666672
+					],
+					[
+						9166.667,
+						1,
+						0
+					],
+					[
+						8166.66666666667,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						8750,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						8500,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						8166.66666666667,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						9083.33333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						9250,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						8166.66666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						8500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						9083.33333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						9250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						9500,
+						1,
+						0
+					],
+					[
+						9833.334,
+						1,
+						0
+					],
+					[
+						10000,
+						3,
+						0
+					],
+					[
+						10166.667,
+						1,
+						0
+					],
+					[
+						10333.334,
+						0,
+						0
+					],
+					[
+						10500,
+						1,
+						0
+					],
+					[
+						9500,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						9750,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						10333.3333333333,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						9333.33333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						9750,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						9666.66666666667,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						10166.6666666667,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						10000,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						9333.33333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						9666.66666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						9750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						10000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						10166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						10666.667,
+						1,
+						0
+					],
+					[
+						11000,
+						1,
+						0
+					],
+					[
+						11333.334,
+						1,
+						0
+					],
+					[
+						11416.667,
+						0,
+						0
+					],
+					[
+						11500,
+						3,
+						0
+					],
+					[
+						11583.334,
+						2,
+						166.666672
+					],
+					[
+						11833.334,
+						1,
+						0
+					],
+					[
+						11000,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						11583.3333333333,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						11750,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						10666.6666666667,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						10916.6666666667,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						11166.6666666667,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						11916.6666666667,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						11750,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						11333.3333333333,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						10666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						10916.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						11166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						11333.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						11750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						11916.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						12166.667,
+						1,
+						0
+					],
+					[
+						12500,
+						1,
+						0
+					],
+					[
+						12666.667,
+						3,
+						0
+					],
+					[
+						12833.334,
+						1,
+						0
+					],
+					[
+						13000,
+						2,
+						0
+					],
+					[
+						13083.334,
+						3,
+						0
+					],
+					[
+						13166.667,
+						0,
+						0
+					],
+					[
+						12333.3333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						12333.3333333333,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						12833.3333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						12500,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						12666.6666666667,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						13250,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						12500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						12666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						13250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						13333.334,
+						2,
+						666.6667
+					],
+					[
+						14333.334,
+						1,
+						0
+					],
+					[
+						14500,
+						1,
+						0
+					],
+					[
+						14583.334,
+						3,
+						416.6667
+					],
+					[
+						14333.3333333333,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						14416.6666666667,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						13500,
+						4,
+						0,
+						"Questionmark Note"
+					],
+					[
+						13666.6666666667,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						13833.3333333333,
+						4,
+						0,
+						"Questionmark Note"
+					],
+					[
+						13500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						13666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						13833.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						15166.667,
+						3,
+						0
+					],
+					[
+						15250,
+						2,
+						166.666672
+					],
+					[
+						15500,
+						0,
+						0
+					],
+					[
+						15833.334,
+						1,
+						250
+					],
+					[
+						14666.6666666667,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						14750,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						14833.3333333333,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						14916.6666666667,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						15083.3333333333,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						15000,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						15166.6666666667,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						15250,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						15333.3333333333,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						15416.6666666667,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						15500,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						15583.3333333333,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						15666.6666666667,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						15833.3333333333,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						15750,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						15916.6666666667,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						15083.3333333333,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						15083.3333333333,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						15083.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						15166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						16166.667,
+						0,
+						0
+					],
+					[
+						16250.001,
+						3,
+						0
+					],
+					[
+						16333.334,
+						1,
+						250
+					],
+					[
+						16666.668,
+						2,
+						250
+					],
+					[
+						17000,
+						0,
+						0
+					],
+					[
+						16000,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						16000,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						16000,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						16000,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						16083.3333333333,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						16166.6666666667,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						16166.6666666667,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						16166.6666666667,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						16166.6666666667,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						16250,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						16333.3333333333,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						16333.3333333333,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						16333.3333333333,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						16333.3333333333,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						16500,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						16583.3333333333,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						16666.6666666667,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						16750,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						16750,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						16750,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						16750,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						16666.6666666667,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						16583.3333333333,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						16500,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						16916.6666666667,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						16916.6666666667,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						16916.6666666667,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						16916.6666666667,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						17000,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						17083.3333333333,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						17083.3333333333,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						17083.3333333333,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						17083.3333333333,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						17166.6666666667,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						17250,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						17250,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						17250,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						17250,
+						4,
+						0,
+						"Poison Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						17333.334,
+						3,
+						0
+					],
+					[
+						17500,
+						3,
+						0
+					],
+					[
+						17583.334,
+						2,
+						0
+					],
+					[
+						17666.668,
+						0,
+						0
+					],
+					[
+						17833.334,
+						1,
+						0
+					],
+					[
+						18000,
+						3,
+						0
+					],
+					[
+						18166.668,
+						2,
+						0
+					],
+					[
+						18333.334,
+						0,
+						0
+					],
+					[
+						18500,
+						1,
+						0
+					],
+					[
+						17666.6666666667,
+						4,
+						0,
+						"Questionmark Note"
+					],
+					[
+						17583.3333333333,
+						4,
+						0,
+						"Questionmark Note"
+					],
+					[
+						17500,
+						4,
+						0,
+						"Questionmark Note"
+					],
+					[
+						17416.6666666667,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						17500,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						17416.6666666667,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						18166.6666666667,
+						4,
+						0,
+						"Questionmark Note"
+					],
+					[
+						18000,
+						4,
+						0,
+						"Questionmark Note"
+					],
+					[
+						17833.3333333333,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						17833.3333333333,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						17916.6666666667,
+						4,
+						0,
+						"Questionmark Note"
+					],
+					[
+						17916.6666666667,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						18000,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						18166.6666666667,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						18083.3333333333,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						18083.3333333333,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						18083.3333333333,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						18083.3333333333,
+						4,
+						0,
+						"Questionmark Note"
+					],
+					[
+						17416.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						17583.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						17500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						17666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						17750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						17833.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						17916.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						18000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						18083.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						18166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						18250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						18666.668,
+						2,
+						666.6667
+					],
+					[
+						19666.668,
+						1,
+						0
+					],
+					[
+						19833.334,
+						1,
+						0
+					],
+					[
+						19916.668,
+						3,
+						416.6667
+					],
+					[
+						18833.3333333333,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						19000,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						19166.6666666667,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						19250,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						19333.3333333333,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						19416.6666666667,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						19500,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						19916.6666666667,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						19416.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						19500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						19916.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						20500,
+						3,
+						0
+					],
+					[
+						20583.334,
+						2,
+						166.666672
+					],
+					[
+						20833.334,
+						0,
+						0
+					],
+					[
+						21166.668,
+						1,
+						250
+					],
+					[
+						20416.6666666667,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						20833.3333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						21000,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						20083.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						20166.6666666667,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						20250,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						20333.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						21083.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						20083.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						20166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						20250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						20333.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						21083.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						21500,
+						0,
+						0
+					],
+					[
+						21583.334,
+						3,
+						0
+					],
+					[
+						21666.668,
+						1,
+						250
+					],
+					[
+						22000,
+						2,
+						250
+					],
+					[
+						22333.334,
+						0,
+						0
+					],
+					[
+						21750,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						22166.6666666667,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						21416.6666666667,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						22000,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						22416.6666666667,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						22583.3333333333,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						21416.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						22000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						22416.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						22583.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						22666.668,
+						3,
+						0
+					],
+					[
+						22833.334,
+						3,
+						0
+					],
+					[
+						22916.668,
+						2,
+						0
+					],
+					[
+						23000,
+						0,
+						0
+					],
+					[
+						23166.668,
+						1,
+						0
+					],
+					[
+						23333.334,
+						3,
+						0
+					],
+					[
+						23500,
+						2,
+						0
+					],
+					[
+						23666.668,
+						0,
+						0
+					],
+					[
+						23833.334,
+						1,
+						0
+					],
+					[
+						22750,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						23166.6666666667,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						23333.3333333333,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						23916.6666666667,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						23083.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						23500,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						23583.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						23083.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						23500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						23583.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						24000,
+						1,
+						0
+					],
+					[
+						24083.334,
+						3,
+						0
+					],
+					[
+						24166.668,
+						0,
+						0
+					],
+					[
+						24250,
+						3,
+						0
+					],
+					[
+						24500,
+						3,
+						0
+					],
+					[
+						24666.668,
+						1,
+						0
+					],
+					[
+						24916.668,
+						1,
+						0
+					],
+					[
+						25166.668,
+						0,
+						0
+					],
+					[
+						24000,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						24000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						25500,
+						2,
+						0
+					],
+					[
+						25666.668,
+						3,
+						83.3333359
+					],
+					[
+						25833.334,
+						1,
+						0
+					],
+					[
+						26000,
+						1,
+						0
+					],
+					[
+						26250,
+						1,
+						0
+					],
+					[
+						26500,
+						3,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						26750,
+						1,
+						0
+					],
+					[
+						26833.334,
+						3,
+						0
+					],
+					[
+						26916.668,
+						0,
+						0
+					],
+					[
+						27000,
+						3,
+						0
+					],
+					[
+						27250,
+						3,
+						0
+					],
+					[
+						27333.334,
+						1,
+						0
+					],
+					[
+						27583.334,
+						1,
+						0
+					],
+					[
+						27833.334,
+						2,
+						250
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						28166.668,
+						2,
+						0
+					],
+					[
+						28333.334,
+						3,
+						83.3333359
+					],
+					[
+						28500,
+						1,
+						0
+					],
+					[
+						28666.668,
+						0,
+						0
+					],
+					[
+						28833.334,
+						3,
+						0
+					],
+					[
+						28916.668,
+						1,
+						0
+					],
+					[
+						29000,
+						0,
+						0
+					],
+					[
+						29166.668,
+						3,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						29333.334,
+						1,
+						0
+					],
+					[
+						29333.334,
+						6,
+						333.333344
+					],
+					[
+						29416.668,
+						3,
+						0
+					],
+					[
+						29500,
+						0,
+						0
+					],
+					[
+						29583.334,
+						3,
+						0
+					],
+					[
+						29833.334,
+						3,
+						0
+					],
+					[
+						30000,
+						1,
+						0
+					],
+					[
+						30250,
+						1,
+						0
+					],
+					[
+						30500,
+						0,
+						0
+					],
+					[
+						29750,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						30000,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						30416.6666666667,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						29583.3333333333,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						29666.6666666667,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						29750,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						30250,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						30416.6666666667,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						29583.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						29666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						29750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						30416.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						30250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						30833.334,
+						2,
+						0
+					],
+					[
+						31000,
+						3,
+						83.3333359
+					],
+					[
+						31166.668,
+						1,
+						0
+					],
+					[
+						31333.334,
+						1,
+						0
+					],
+					[
+						31583.334,
+						1,
+						0
+					],
+					[
+						31833.334,
+						3,
+						0
+					],
+					[
+						31000,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						31416.6666666667,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						31666.6666666667,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						30666.6666666667,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						30750,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						30916.6666666667,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						31166.6666666667,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						31250,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						31416.6666666667,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						31500,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						30750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						30666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						30916.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						31166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						31250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						31416.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						31500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						32083.334,
+						1,
+						0
+					],
+					[
+						32166.668,
+						3,
+						0
+					],
+					[
+						32250.002,
+						0,
+						0
+					],
+					[
+						32333.334,
+						3,
+						0
+					],
+					[
+						32583.334,
+						3,
+						0
+					],
+					[
+						32666.668,
+						1,
+						0
+					],
+					[
+						32916.668,
+						1,
+						0
+					],
+					[
+						33166.668,
+						2,
+						250
+					],
+					[
+						32500,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						33000,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						32083.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						32333.3333333333,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						32416.6666666667,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						32500,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						32833.3333333333,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						33000,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						33166.6666666667,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						32083.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						32333.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						32416.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						32500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						32833.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						33000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						33166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						33500,
+						2,
+						0
+					],
+					[
+						33666.668,
+						3,
+						83.3333359
+					],
+					[
+						33833.3359,
+						1,
+						0
+					],
+					[
+						34000,
+						0,
+						0
+					],
+					[
+						34166.668,
+						3,
+						0
+					],
+					[
+						34250,
+						1,
+						0
+					],
+					[
+						34333.3359,
+						0,
+						0
+					],
+					[
+						34500,
+						3,
+						0
+					],
+					[
+						33583.3333333333,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						34083.3333333333,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						34166.6666666667,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						33333.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						33500,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						33750,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						33666.6666666667,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						34000,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						34333.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						34583.3333333333,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						33333.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						33500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						33666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						33750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						34000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						34333.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						34583.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						34666.668,
+						2,
+						666.6667
+					],
+					[
+						35666.668,
+						1,
+						0
+					],
+					[
+						35833.3359,
+						3,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						36000,
+						0,
+						166.666672
+					],
+					[
+						36333.3359,
+						1,
+						0
+					],
+					[
+						36666.668,
+						2,
+						166.666672
+					],
+					[
+						37000,
+						0,
+						0
+					],
+					[
+						37083.3359,
+						3,
+						0
+					],
+					[
+						37166.668,
+						1,
+						83.3333359
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						37333.3359,
+						2,
+						0
+					],
+					[
+						37500,
+						0,
+						0
+					],
+					[
+						37666.668,
+						3,
+						0
+					],
+					[
+						37833.3359,
+						0,
+						0
+					],
+					[
+						38000,
+						2,
+						0
+					],
+					[
+						38166.668,
+						3,
+						0
+					],
+					[
+						38333.3359,
+						0,
+						0
+					],
+					[
+						38500,
+						3,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						38666.668,
+						2,
+						0
+					],
+					[
+						38833.3359,
+						3,
+						0
+					],
+					[
+						39000,
+						2,
+						0
+					],
+					[
+						39166.668,
+						0,
+						0
+					],
+					[
+						39333.3359,
+						2,
+						250
+					],
+					[
+						39666.668,
+						1,
+						250
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						40000,
+						2,
+						666.6667
+					],
+					[
+						41000,
+						1,
+						0
+					],
+					[
+						41166.668,
+						3,
+						0
+					],
+					[
+						40083.3333333333,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						40166.6666666667,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						40250,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						40333.3333333333,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						40416.6666666667,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						40500,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						40583.3333333333,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						40666.6666666667,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						41166.6666666667,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						40166.6666666667,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						40250,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						40333.3333333333,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						40416.6666666667,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						40500,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						40583.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						40666.6666666667,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						40666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						40583.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						40500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						40416.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						40333.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						40250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						40166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						41000,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						41000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						41333.3359,
+						0,
+						166.666672
+					],
+					[
+						41666.668,
+						1,
+						0
+					],
+					[
+						42000,
+						2,
+						166.666672
+					],
+					[
+						42333.3359,
+						0,
+						0
+					],
+					[
+						42416.668,
+						3,
+						0
+					],
+					[
+						42500,
+						1,
+						83.3333359
+					],
+					[
+						41833.3333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						42500,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						41416.6666666667,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						41666.6666666667,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						41916.6666666667,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						42083.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						42166.6666666667,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						42333.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						41416.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						41666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						41916.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						42083.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						42166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						42333.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						42666.668,
+						2,
+						0
+					],
+					[
+						42833.3359,
+						0,
+						0
+					],
+					[
+						43000,
+						3,
+						0
+					],
+					[
+						43166.668,
+						0,
+						0
+					],
+					[
+						43333.3359,
+						2,
+						0
+					],
+					[
+						43500,
+						3,
+						0
+					],
+					[
+						43666.668,
+						0,
+						0
+					],
+					[
+						43833.3359,
+						3,
+						0
+					],
+					[
+						43166.6666666667,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						43333.3333333333,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						43500,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						42750,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						42916.6666666667,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						43000,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						43333.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						43666.6666666667,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						43833.3333333333,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						43916.6666666667,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						43916.6666666667,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						42750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						42916.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						43000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						43333.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						43666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						43833.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						43833.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						43916.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						44000,
+						2,
+						0
+					],
+					[
+						44166.668,
+						3,
+						0
+					],
+					[
+						44333.3359,
+						2,
+						0
+					],
+					[
+						44500,
+						0,
+						0
+					],
+					[
+						44666.668,
+						2,
+						250
+					],
+					[
+						45000,
+						1,
+						250
+					],
+					[
+						44916.6666666667,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						44833.3333333333,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						45166.6666666667,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						45250,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						44000,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						44250,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						44500,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						44583.3333333333,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						45083.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						45166.6666666667,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						45250,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						44000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						44083.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						44250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						44500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						44583.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						45083.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						45166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						45250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						45333.3359,
+						2,
+						666.6667
+					],
+					[
+						46333.3359,
+						1,
+						0
+					],
+					[
+						46500,
+						1,
+						0
+					],
+					[
+						46583.3359,
+						3,
+						416.6667
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						47166.668,
+						3,
+						0
+					],
+					[
+						47250,
+						2,
+						166.666672
+					],
+					[
+						47500,
+						0,
+						0
+					],
+					[
+						47833.3359,
+						1,
+						250
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						48166.668,
+						0,
+						0
+					],
+					[
+						48250,
+						3,
+						0
+					],
+					[
+						48333.3359,
+						1,
+						250
+					],
+					[
+						48666.668,
+						2,
+						250
+					],
+					[
+						49000,
+						0,
+						0
+					],
+					[
+						48583.3333333334,
+						4,
+						0,
+						"Questionmark Note"
+					],
+					[
+						48583.3333333334,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						48750,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						48750,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						49000,
+						4,
+						0,
+						"Questionmark Note"
+					],
+					[
+						49000,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						49166.6666666667,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						49166.6666666667,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						48583.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						48666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						48750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						48833.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						49000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						49083.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						49166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						49250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						49333.3359,
+						3,
+						0
+					],
+					[
+						49500,
+						2,
+						0
+					],
+					[
+						49666.668,
+						0,
+						0
+					],
+					[
+						49833.3359,
+						1,
+						0
+					],
+					[
+						50000,
+						3,
+						0
+					],
+					[
+						50166.668,
+						2,
+						0
+					],
+					[
+						50333.3359,
+						0,
+						0
+					],
+					[
+						50500,
+						1,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						50666.668,
+						2,
+						666.6667
+					],
+					[
+						51666.668,
+						1,
+						0
+					],
+					[
+						51833.3359,
+						1,
+						0
+					],
+					[
+						51916.668,
+						3,
+						416.6667
+					],
+					[
+						51666.6666666667,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						51833.3333333334,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						51666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						51833.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						52500,
+						3,
+						0
+					],
+					[
+						52583.3359,
+						2,
+						166.666672
+					],
+					[
+						52833.3359,
+						0,
+						0
+					],
+					[
+						53166.668,
+						1,
+						250
+					],
+					[
+						52750,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						52583.3333333334,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						52250,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						52166.6666666667,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						52166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						52250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						52583.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						52750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						53500,
+						0,
+						0
+					],
+					[
+						53583.3359,
+						3,
+						0
+					],
+					[
+						53666.668,
+						1,
+						250
+					],
+					[
+						54000,
+						2,
+						250
+					],
+					[
+						54333.3359,
+						0,
+						0
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						54666.668,
+						3,
+						0
+					],
+					[
+						54833.3359,
+						2,
+						0
+					],
+					[
+						55000,
+						0,
+						0
+					],
+					[
+						55166.668,
+						1,
+						0
+					],
+					[
+						55333.3359,
+						3,
+						0
+					],
+					[
+						55500,
+						2,
+						0
+					],
+					[
+						55666.668,
+						0,
+						0
+					],
+					[
+						55833.3359,
+						1,
+						0
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						56000,
+						0,
+						0
+					],
+					[
+						56166.668,
+						1,
+						0
+					],
+					[
+						56333.3359,
+						3,
+						0
+					],
+					[
+						56500,
+						1,
+						0
+					],
+					[
+						56666.668,
+						3,
+						0
+					],
+					[
+						56833.3359,
+						1,
+						0
+					],
+					[
+						57000,
+						0,
+						0
+					],
+					[
+						57083.3359,
+						3,
+						0
+					],
+					[
+						57166.668,
+						1,
+						0
+					],
+					[
+						56000,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						56000,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						56000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						57333.3359,
+						0,
+						0
+					],
+					[
+						57500,
+						1,
+						0
+					],
+					[
+						57666.668,
+						3,
+						0
+					],
+					[
+						57833.3359,
+						1,
+						0
+					],
+					[
+						58000,
+						3,
+						0
+					],
+					[
+						58166.668,
+						1,
+						0
+					],
+					[
+						58333.3359,
+						0,
+						0
+					],
+					[
+						58416.668,
+						3,
+						0
+					],
+					[
+						58500,
+						1,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						58666.6666666667,
+						2,
+						0,
+						"Hey!"
+					],
+					[
+						59000,
+						2,
+						0,
+						"Hey!"
+					],
+					[
+						59333.3333333334,
+						2,
+						0,
+						"Hey!"
+					],
+					[
+						59666.6666666667,
+						2,
+						0,
+						"Hey!"
+					],
+					[
+						58833.3333333334,
+						1,
+						0,
+						"Hey!"
+					],
+					[
+						58750,
+						3,
+						0,
+						"Hey!"
+					],
+					[
+						59166.6666666667,
+						1,
+						0,
+						"Hey!"
+					],
+					[
+						59083.3333333334,
+						3,
+						0,
+						"Hey!"
+					],
+					[
+						59500,
+						1,
+						0,
+						"Hey!"
+					],
+					[
+						59416.6666666667,
+						3,
+						0,
+						"Hey!"
+					],
+					[
+						59750,
+						3,
+						0,
+						"Hey!"
+					],
+					[
+						59833.3333333334,
+						1,
+						0,
+						"Hey!"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						60000,
+						2,
+						0,
+						"Hey!"
+					],
+					[
+						60083.3333333334,
+						3,
+						0,
+						"Hey!"
+					],
+					[
+						60166.6666666667,
+						1,
+						0,
+						"Hey!"
+					],
+					[
+						60333.3333333334,
+						2,
+						0,
+						"Hey!"
+					],
+					[
+						60416.6666666667,
+						3,
+						0,
+						"Hey!"
+					],
+					[
+						60500,
+						1,
+						0,
+						"Hey!"
+					],
+					[
+						60666.6666666667,
+						2,
+						0,
+						"Hey!"
+					],
+					[
+						60750,
+						3,
+						0,
+						"Hey!"
+					],
+					[
+						60833.3333333334,
+						1,
+						0,
+						"Hey!"
+					],
+					[
+						61000,
+						2,
+						0,
+						"Hey!"
+					],
+					[
+						61083.3333333334,
+						3,
+						0,
+						"Hey!"
+					],
+					[
+						61166.6666666667,
+						1,
+						0,
+						"! Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						61333.3359,
+						0,
+						0
+					],
+					[
+						61500,
+						1,
+						0
+					],
+					[
+						61666.668,
+						3,
+						0
+					],
+					[
+						61833.3359,
+						1,
+						0
+					],
+					[
+						62000,
+						3,
+						0
+					],
+					[
+						62166.668,
+						1,
+						0
+					],
+					[
+						62333.3359,
+						0,
+						0
+					],
+					[
+						62416.668,
+						3,
+						0
+					],
+					[
+						62500,
+						1,
+						0
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						62666.668,
+						0,
+						0
+					],
+					[
+						62833.3359,
+						1,
+						0
+					],
+					[
+						63000,
+						3,
+						0
+					],
+					[
+						63166.668,
+						1,
+						0
+					],
+					[
+						63333.3359,
+						3,
+						0
+					],
+					[
+						63500,
+						1,
+						0
+					],
+					[
+						63666.668,
+						0,
+						0
+					],
+					[
+						63750,
+						3,
+						0
+					],
+					[
+						63833.3359,
+						1,
+						0
+					],
+					[
+						62916.6666666667,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						63083.3333333334,
+						2,
+						0,
+						"Poison Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						65166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						65083.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						65000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						64750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						64666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						64500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						64416.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						64333.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						64166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						64083.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						64000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						64083.3333333334,
+						3,
+						0,
+						"! Note"
+					],
+					[
+						64166.6666666667,
+						1,
+						0,
+						"! Note"
+					],
+					[
+						64416.6666666667,
+						3,
+						0,
+						"! Note"
+					],
+					[
+						64500,
+						1,
+						0,
+						"! Note"
+					],
+					[
+						64750,
+						3,
+						0,
+						"! Note"
+					],
+					[
+						64833.3333333334,
+						1,
+						0,
+						"! Note"
+					],
+					[
+						65083.3333333334,
+						3,
+						0,
+						"! Note"
+					],
+					[
+						65166.6666666667,
+						1,
+						0,
+						"! Note"
+					],
+					[
+						64000,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						64166.6666666667,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						64333.3333333334,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						64500,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						64666.6666666667,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						64833.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						64833.3333333334,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						65000,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						65166.6666666667,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						64000,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						64333.3333333334,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						64666.6666666667,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						65000,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						64083.3333333334,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						64250,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						64416.6666666667,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						64583.3333333334,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						64750,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						64916.6666666667,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						65083.3333333334,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						65250,
+						0,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						66416.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						66500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						66333.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						66166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						66083.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						66000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						65833.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						65750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						65666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						65500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						65416.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						65333.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						65500,
+						1,
+						0,
+						"! Note"
+					],
+					[
+						65416.6666666667,
+						3,
+						0,
+						"! Note"
+					],
+					[
+						65833.3333333334,
+						1,
+						0,
+						"! Note"
+					],
+					[
+						65750,
+						3,
+						0,
+						"! Note"
+					],
+					[
+						66166.6666666667,
+						1,
+						0,
+						"! Note"
+					],
+					[
+						66083.3333333334,
+						3,
+						0,
+						"! Note"
+					],
+					[
+						66500,
+						1,
+						0,
+						"! Note"
+					],
+					[
+						66416.6666666667,
+						3,
+						0,
+						"! Note"
+					],
+					[
+						65333.3333333334,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						65500,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						65666.6666666667,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						65833.3333333334,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						66000,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						66166.6666666667,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						66333.3333333334,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						66500,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						66500,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						65333.3333333334,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						65666.6666666667,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						66000,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						66333.3333333334,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						65416.6666666667,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						65583.3333333334,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						65750,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						65916.6666666667,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						66083.3333333334,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						66250,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						66416.6666666667,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						66583.3333333334,
+						0,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						66666.67,
+						1,
+						0
+					],
+					[
+						66750,
+						3,
+						0
+					],
+					[
+						66833.3359,
+						0,
+						0
+					],
+					[
+						66916.67,
+						3,
+						0
+					],
+					[
+						67166.67,
+						3,
+						0
+					],
+					[
+						67333.3359,
+						1,
+						0
+					],
+					[
+						67583.3359,
+						1,
+						0
+					],
+					[
+						67833.3359,
+						0,
+						0
+					],
+					[
+						67583.3333333334,
+						4,
+						0,
+						"! Note"
+					],
+					[
+						67583.3333333334,
+						5,
+						0,
+						"! Note"
+					],
+					[
+						67750,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						67750,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						67583.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						67750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						67666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						67833.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						68166.67,
+						2,
+						0
+					],
+					[
+						68333.3359,
+						3,
+						83.3333359
+					],
+					[
+						68500,
+						1,
+						0
+					],
+					[
+						68666.67,
+						1,
+						0
+					],
+					[
+						68916.67,
+						1,
+						0
+					],
+					[
+						69166.67,
+						3,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						69416.67,
+						1,
+						0
+					],
+					[
+						69500,
+						3,
+						0
+					],
+					[
+						69583.3359,
+						0,
+						0
+					],
+					[
+						69666.67,
+						3,
+						0
+					],
+					[
+						69916.67,
+						3,
+						0
+					],
+					[
+						70000,
+						1,
+						0
+					],
+					[
+						70250,
+						1,
+						0
+					],
+					[
+						70500,
+						2,
+						250
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						70833.3359,
+						2,
+						0
+					],
+					[
+						71000,
+						3,
+						0
+					],
+					[
+						71083.3359,
+						1,
+						0
+					],
+					[
+						71166.67,
+						0,
+						0
+					],
+					[
+						71333.3359,
+						1,
+						0
+					],
+					[
+						71500,
+						3,
+						0
+					],
+					[
+						71583.3359,
+						1,
+						0
+					],
+					[
+						71666.67,
+						0,
+						0
+					],
+					[
+						71833.3359,
+						3,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						72000,
+						1,
+						0
+					],
+					[
+						72000,
+						6,
+						333.333344
+					],
+					[
+						72083.3359,
+						3,
+						0
+					],
+					[
+						72166.67,
+						0,
+						0
+					],
+					[
+						72250,
+						3,
+						0
+					],
+					[
+						72500,
+						3,
+						0
+					],
+					[
+						72666.67,
+						1,
+						0
+					],
+					[
+						72916.67,
+						1,
+						0
+					],
+					[
+						73166.67,
+						0,
+						0
+					],
+					[
+						72333.3333333334,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						72333.3333333334,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						72333.3333333334,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						72833.3333333334,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						73083.3333333334,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						72333.3333333334,
+						1,
+						0,
+						"! Note"
+					],
+					[
+						72000,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						72666.6666666667,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						72833.3333333334,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						72333.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						72166.6666666667,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						72500,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						73000,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						73250,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						72166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						72500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						73000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						73250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						73500,
+						2,
+						0
+					],
+					[
+						73666.67,
+						3,
+						83.3333359
+					],
+					[
+						73833.3359,
+						1,
+						0
+					],
+					[
+						74000,
+						1,
+						0
+					],
+					[
+						74500,
+						3,
+						0
+					],
+					[
+						73750,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						74000,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						74500,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						74250,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						74250,
+						1,
+						0,
+						"! Note"
+					],
+					[
+						73416.6666666667,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						73916.6666666667,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						74083.3333333334,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						74250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						73333.3333333334,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						73666.6666666667,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						74083.3333333334,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						74583.3333333334,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						73333.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						73666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						74083.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						74583.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						74750,
+						1,
+						0
+					],
+					[
+						74833.3359,
+						3,
+						0
+					],
+					[
+						74916.67,
+						0,
+						0
+					],
+					[
+						75000,
+						3,
+						0
+					],
+					[
+						75333.3359,
+						1,
+						0
+					],
+					[
+						75583.3359,
+						1,
+						0
+					],
+					[
+						75833.3359,
+						2,
+						250
+					],
+					[
+						74833.3333333334,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						75083.3333333334,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						75500,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						75666.6666666667,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						75250,
+						2,
+						0,
+						"! Note"
+					],
+					[
+						75250,
+						3,
+						0,
+						"! Note"
+					],
+					[
+						74666.6666666667,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						75416.6666666667,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						75750,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						75916.6666666667,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						75250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						75083.3333333334,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						75750,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						75083.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						75750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						75333.3333333334,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						76166.67,
+						2,
+						0
+					],
+					[
+						76333.3359,
+						3,
+						0
+					],
+					[
+						76416.67,
+						1,
+						0
+					],
+					[
+						76500,
+						0,
+						0
+					],
+					[
+						76666.67,
+						1,
+						0
+					],
+					[
+						76916.67,
+						1,
+						0
+					],
+					[
+						77000,
+						0,
+						0
+					],
+					[
+						77166.67,
+						3,
+						0
+					],
+					[
+						76083.3333333333,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						76000,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						76583.3333333333,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						76833.3333333333,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						77166.6666666667,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						76833.3333333333,
+						2,
+						0,
+						"! Note"
+					],
+					[
+						76833.3333333333,
+						3,
+						0,
+						"! Note"
+					],
+					[
+						76250,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						76500,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						76750,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						77083.3333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						77250,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						76833.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						76000,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						76166.6666666667,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						76500,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						76000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						76166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						76500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						76916.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						77333.3359,
+						6,
+						666.6667
+					],
+					[
+						77333.3359,
+						2,
+						666.6667
+					],
+					[
+						78333.3359,
+						4,
+						0
+					],
+					[
+						78333.3359,
+						1,
+						0
+					],
+					[
+						78500,
+						6,
+						0
+					],
+					[
+						78500,
+						3,
+						0
+					],
+					[
+						77333.3333333333,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						77916.6666666667,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						78166.6666666667,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						78500,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						78583.3333333333,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						77416.6666666667,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						77583.3333333333,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						77583.3333333333,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						77750,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						77916.6666666667,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						78000,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						78166.6666666667,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						78416.6666666667,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						77416.6666666667,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						77500,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						77666.6666666667,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						77833.3333333333,
+						4,
+						0,
+						"Questionmark Note"
+					],
+					[
+						78000,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						78416.6666666667,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						78333.3333333333,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						77416.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						77500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						77666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						77833.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						78000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						78333.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						78416.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						78666.67,
+						6,
+						166.666672
+					],
+					[
+						78666.67,
+						0,
+						166.666672
+					],
+					[
+						79000,
+						7,
+						0
+					],
+					[
+						79000,
+						1,
+						0
+					],
+					[
+						79333.3359,
+						5,
+						166.666672
+					],
+					[
+						79333.3359,
+						2,
+						166.666672
+					],
+					[
+						79666.67,
+						7,
+						0
+					],
+					[
+						79666.67,
+						0,
+						0
+					],
+					[
+						79750,
+						4,
+						0
+					],
+					[
+						79750,
+						3,
+						0
+					],
+					[
+						79833.3359,
+						1,
+						83.3333359
+					],
+					[
+						79833.3359,
+						5,
+						83.3333359
+					],
+					[
+						78916.6666666667,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						79250,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						79583.3333333333,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						79833.3333333333,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						79083.3333333333,
+						5,
+						0,
+						"! Note"
+					],
+					[
+						79750,
+						6,
+						0,
+						"! Note"
+					],
+					[
+						79083.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						79750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						79416.6666666667,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						79916.6666666667,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						79916.6666666667,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						79083.3333333333,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						79083.3333333333,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						79083.3333333333,
+						4,
+						0,
+						"Questionmark Note"
+					],
+					[
+						79583.3333333333,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						79500,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						79500,
+						4,
+						0,
+						"Questionmark Note"
+					],
+					[
+						79166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						79500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						79583.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						80000,
+						6,
+						0
+					],
+					[
+						80000,
+						2,
+						0
+					],
+					[
+						80166.67,
+						4,
+						0
+					],
+					[
+						80166.67,
+						0,
+						0
+					],
+					[
+						80333.3359,
+						7,
+						0
+					],
+					[
+						80333.3359,
+						3,
+						0
+					],
+					[
+						80500,
+						4,
+						0
+					],
+					[
+						80500,
+						0,
+						0
+					],
+					[
+						80666.67,
+						6,
+						0
+					],
+					[
+						80666.67,
+						2,
+						0
+					],
+					[
+						80833.3359,
+						7,
+						0
+					],
+					[
+						80833.3359,
+						3,
+						0
+					],
+					[
+						81000,
+						4,
+						0
+					],
+					[
+						81166.67,
+						7,
+						0
+					],
+					[
+						81166.67,
+						3,
+						0
+					],
+					[
+						80083.3333333333,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						80500,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						80833.3333333333,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						81250,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						80750,
+						5,
+						0,
+						"! Note"
+					],
+					[
+						80750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						80166.6666666667,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						80333.3333333333,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						80666.6666666667,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						81000,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						81000,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						81250,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						81250,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						80083.3333333333,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						80166.6666666667,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						80333.3333333333,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						80416.6666666667,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						80833.3333333333,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						81166.6666666667,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						80083.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						80166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						80333.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						80416.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						80833.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						81166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						81333.3359,
+						6,
+						0
+					],
+					[
+						81333.3359,
+						2,
+						0
+					],
+					[
+						81500,
+						7,
+						0
+					],
+					[
+						81500,
+						3,
+						0
+					],
+					[
+						81666.67,
+						2,
+						0
+					],
+					[
+						81833.3359,
+						4,
+						0
+					],
+					[
+						81833.3359,
+						0,
+						0
+					],
+					[
+						82000,
+						6,
+						250
+					],
+					[
+						82000,
+						2,
+						250
+					],
+					[
+						82333.3359,
+						5,
+						250
+					],
+					[
+						82333.3359,
+						1,
+						250
+					],
+					[
+						81416.6666666667,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						81750,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						82000,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						82500,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						82583.3333333333,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						81666.6666666667,
+						6,
+						0,
+						"! Note"
+					],
+					[
+						81666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						81833.3333333333,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						82083.3333333333,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						82250,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						81583.3333333333,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						81333.3333333333,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						82250,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						82416.6666666667,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						82500,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						81333.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						81583.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						82250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						82416.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						82500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						82666.67,
+						6,
+						666.6667
+					],
+					[
+						82666.67,
+						0,
+						250
+					],
+					[
+						83000,
+						1,
+						250
+					],
+					[
+						83333.3359,
+						3,
+						250
+					],
+					[
+						83666.67,
+						1,
+						250
+					],
+					[
+						83666.67,
+						5,
+						0
+					],
+					[
+						83833.3359,
+						7,
+						0
+					],
+					[
+						82666.6666666667,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						83083.3333333333,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						83500,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						83666.6666666667,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						83916.6666666667,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						82916.6666666667,
+						4,
+						0,
+						"! Note"
+					],
+					[
+						82916.6666666667,
+						5,
+						0,
+						"! Note"
+					],
+					[
+						83166.6666666667,
+						5,
+						0,
+						"! Note"
+					],
+					[
+						83166.6666666667,
+						7,
+						0,
+						"! Note"
+					],
+					[
+						82916.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						83166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						82833.3333333333,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						83000,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						83250,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						83916.6666666667,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						82666.6666666667,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						82833.3333333333,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						83416.6666666667,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						83333.3333333333,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						83500,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						83333.3333333333,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						83750,
+						4,
+						0,
+						"Questionmark Note"
+					],
+					[
+						82833.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						82666.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						83333.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						83416.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						83500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						83750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						84000,
+						2,
+						250
+					],
+					[
+						84000,
+						4,
+						166.666672
+					],
+					[
+						84333.3359,
+						1,
+						250
+					],
+					[
+						84333.3359,
+						5,
+						0
+					],
+					[
+						84666.67,
+						3,
+						250
+					],
+					[
+						84666.67,
+						6,
+						166.666672
+					],
+					[
+						85000,
+						1,
+						250
+					],
+					[
+						85000,
+						4,
+						0
+					],
+					[
+						85083.3359,
+						7,
+						0
+					],
+					[
+						85166.67,
+						5,
+						83.3333359
+					],
+					[
+						84083.3333333333,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						84583.3333333333,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						84916.6666666667,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						84250,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						84416.6666666667,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						84666.6666666667,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						85000,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						84000,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						84250,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						84416.6666666667,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						84750,
+						4,
+						0,
+						"Questionmark Note"
+					],
+					[
+						84916.6666666667,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						85000,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						85166.6666666667,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						84250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						84000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						84416.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						84750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						84916.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						85000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						85083.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						85166.6666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						85250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						85333.3359,
+						1,
+						250
+					],
+					[
+						85333.3359,
+						6,
+						0
+					],
+					[
+						85500,
+						4,
+						0
+					],
+					[
+						85666.67,
+						3,
+						250
+					],
+					[
+						85666.67,
+						7,
+						0
+					],
+					[
+						85833.3359,
+						4,
+						0
+					],
+					[
+						86000,
+						0,
+						250
+					],
+					[
+						86000,
+						6,
+						0
+					],
+					[
+						86166.67,
+						7,
+						0
+					],
+					[
+						86333.3359,
+						3,
+						250
+					],
+					[
+						86333.3359,
+						4,
+						0
+					],
+					[
+						86500,
+						7,
+						0
+					],
+					[
+						85333.3333333333,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						85416.6666666666,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						85666.6666666666,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						85833.3333333333,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						86166.6666666666,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						86416.6666666666,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						85583.3333333333,
+						6,
+						0,
+						"! Note"
+					],
+					[
+						85833.3333333333,
+						6,
+						0,
+						"! Note"
+					],
+					[
+						85583.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						85833.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						85333.3333333333,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						85583.3333333333,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						86083.3333333333,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						86250,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						86333.3333333333,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						86500,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						85333.3333333333,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						85500,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						85583.3333333333,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						85916.6666666666,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						86416.6666666666,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						86583.3333333333,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						85333.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						85416.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						85500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						85666.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						85916.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						86416.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						86583.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						86666.67,
+						6,
+						250
+					],
+					[
+						86666.67,
+						2,
+						0
+					],
+					[
+						86833.3359,
+						3,
+						0
+					],
+					[
+						87000,
+						7,
+						250
+					],
+					[
+						87000,
+						2,
+						0
+					],
+					[
+						87166.67,
+						0,
+						0
+					],
+					[
+						87333.3359,
+						6,
+						250
+					],
+					[
+						87333.3359,
+						2,
+						250
+					],
+					[
+						87666.67,
+						5,
+						250
+					],
+					[
+						87666.67,
+						1,
+						250
+					],
+					[
+						86666.6666666666,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						87250,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						87833.3333333333,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						87083.3333333333,
+						1,
+						0,
+						"! Note"
+					],
+					[
+						87500,
+						1,
+						0,
+						"! Note"
+					],
+					[
+						87083.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						87500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						86666.6666666666,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						86916.6666666666,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						87083.3333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						87416.6666666666,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						87583.3333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						87916.6666666666,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						87750,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						86750,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						86916.6666666666,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						87250,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						87166.6666666666,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						87166.6666666666,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						87666.6666666666,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						87916.6666666666,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						87916.6666666666,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						86750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						86916.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						87166.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						87250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						87333.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						87666.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						87916.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						88000,
+						5,
+						0
+					],
+					[
+						88000,
+						1,
+						0
+					],
+					[
+						88333.3359,
+						1,
+						0
+					],
+					[
+						88666.67,
+						1,
+						0
+					],
+					[
+						88833.3359,
+						0,
+						0
+					],
+					[
+						88916.67,
+						3,
+						0
+					],
+					[
+						89000,
+						2,
+						0
+					],
+					[
+						89166.67,
+						1,
+						0
+					],
+					[
+						88083.3333333333,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						88333.3333333333,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						88666.6666666666,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						88833.3333333333,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						88916.6666666666,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						89000,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						89166.6666666666,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						88166.6666666666,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						88500,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						88916.6666666666,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						88750,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						88833.3333333333,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						88000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						88166.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						88500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						88750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						88833.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						88916.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						89500,
+						1,
+						0
+					],
+					[
+						89833.3359,
+						1,
+						0
+					],
+					[
+						90166.67,
+						3,
+						0
+					],
+					[
+						90250,
+						0,
+						0
+					],
+					[
+						90333.3359,
+						2,
+						250
+					],
+					[
+						89583.3333333333,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						89666.6666666666,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						89500,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						89833.3333333333,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						89916.6666666666,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						90000,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						90166.6666666666,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						90250,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						90333.3333333333,
+						5,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						90666.67,
+						1,
+						0
+					],
+					[
+						91000,
+						1,
+						0
+					],
+					[
+						91333.3359,
+						1,
+						0
+					],
+					[
+						91500,
+						3,
+						0
+					],
+					[
+						91583.3359,
+						0,
+						0
+					],
+					[
+						91666.67,
+						2,
+						0
+					],
+					[
+						91833.3359,
+						1,
+						0
+					],
+					[
+						90666.6666666666,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						90666.6666666666,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						90666.6666666666,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						90666.6666666666,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						90750,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						90833.3333333333,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						90833.3333333333,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						90833.3333333333,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						90833.3333333333,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						90916.6666666666,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						91000,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						91000,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						91000,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						91000,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						91166.6666666666,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						91250,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						91333.3333333333,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						91416.6666666666,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						91416.6666666666,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						91416.6666666666,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						91416.6666666666,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						91333.3333333333,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						91250,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						91166.6666666666,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						91583.3333333333,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						91583.3333333333,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						91583.3333333333,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						91583.3333333333,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						91666.6666666666,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						91833.3333333333,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						91750,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						91916.6666666666,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						91916.6666666666,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						91916.6666666666,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						91916.6666666666,
+						7,
+						0,
+						"Poison Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						92000,
+						0,
+						0
+					],
+					[
+						92166.67,
+						1,
+						0
+					],
+					[
+						92333.3359,
+						2,
+						0
+					],
+					[
+						92500,
+						1,
+						0
+					],
+					[
+						92666.67,
+						3,
+						0
+					],
+					[
+						92833.3359,
+						1,
+						0
+					],
+					[
+						92916.67,
+						2,
+						0
+					],
+					[
+						93000,
+						3,
+						0
+					],
+					[
+						93166.67,
+						0,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						93333.3359,
+						1,
+						0
+					],
+					[
+						93333.3359,
+						5,
+						0
+					],
+					[
+						93666.67,
+						1,
+						0
+					],
+					[
+						93666.67,
+						5,
+						0
+					],
+					[
+						94000,
+						1,
+						0
+					],
+					[
+						94000,
+						5,
+						0
+					],
+					[
+						94166.67,
+						4,
+						0
+					],
+					[
+						94250,
+						3,
+						0
+					],
+					[
+						94250,
+						7,
+						0
+					],
+					[
+						94333.3359,
+						6,
+						0
+					],
+					[
+						94500,
+						1,
+						0
+					],
+					[
+						94500,
+						5,
+						0
+					],
+					[
+						93833.3333333333,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						93500,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						94083.3333333333,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						94166.6666666666,
+						0,
+						0,
+						"! Note"
+					],
+					[
+						94333.3333333333,
+						2,
+						0,
+						"! Note"
+					],
+					[
+						94166.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						94333.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						93416.6666666666,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						93416.6666666666,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						93416.6666666666,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						93416.6666666666,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						93583.3333333333,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						93583.3333333333,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						93583.3333333333,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						93583.3333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						93750,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						93750,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						93750,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						93916.6666666666,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						93916.6666666666,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						93916.6666666666,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						93916.6666666666,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						94083.3333333333,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						94083.3333333333,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						94083.3333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						94583.3333333333,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						94583.3333333333,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						94583.3333333333,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						94583.3333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						93500,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						93500,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						93666.6666666666,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						93666.6666666666,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						93333.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						93333.3333333333,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						93750,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						93833.3333333333,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						93833.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						94000,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						94000,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						93333.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						93416.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						93500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						93583.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						93666.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						93750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						93833.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						93916.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						94000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						94083.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						94833.3359,
+						1,
+						0
+					],
+					[
+						94833.3359,
+						5,
+						0
+					],
+					[
+						95166.67,
+						1,
+						0
+					],
+					[
+						95166.67,
+						5,
+						0
+					],
+					[
+						95500,
+						3,
+						0
+					],
+					[
+						95500,
+						7,
+						0
+					],
+					[
+						95583.3359,
+						0,
+						0
+					],
+					[
+						95583.3359,
+						4,
+						0
+					],
+					[
+						95666.67,
+						2,
+						250
+					],
+					[
+						95666.67,
+						6,
+						250
+					],
+					[
+						94999.9999999999,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						94666.6666666666,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						95416.6666666666,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						95833.3333333333,
+						0,
+						0,
+						"! Note"
+					],
+					[
+						95916.6666666666,
+						3,
+						0,
+						"! Note"
+					],
+					[
+						95833.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						95916.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						94749.9999999999,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						94749.9999999999,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						94749.9999999999,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						94749.9999999999,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						94916.6666666666,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						94916.6666666666,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						94916.6666666666,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						94916.6666666666,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						95083.3333333333,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						95083.3333333333,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						95083.3333333333,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						95083.3333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						95249.9999999999,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						95249.9999999999,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						95249.9999999999,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						95249.9999999999,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						95416.6666666666,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						95416.6666666666,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						95416.6666666666,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						94666.6666666666,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						94666.6666666666,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						94833.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						94833.3333333333,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						94999.9999999999,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						94999.9999999999,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						95166.6666666666,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						95166.6666666666,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						95333.3333333333,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						95333.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						94666.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						94749.9999999999,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						94833.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						94916.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						94999.9999999999,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						95083.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						95166.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						95249.9999999999,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						95333.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						95416.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						95499.9999999999,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						96000,
+						1,
+						0
+					],
+					[
+						96000,
+						5,
+						0
+					],
+					[
+						96333.3359,
+						1,
+						0
+					],
+					[
+						96333.3359,
+						5,
+						0
+					],
+					[
+						96666.67,
+						1,
+						0
+					],
+					[
+						96666.67,
+						5,
+						0
+					],
+					[
+						96833.3359,
+						3,
+						0
+					],
+					[
+						96833.3359,
+						7,
+						0
+					],
+					[
+						96916.67,
+						0,
+						0
+					],
+					[
+						96916.67,
+						4,
+						0
+					],
+					[
+						97000,
+						2,
+						0
+					],
+					[
+						97000,
+						6,
+						0
+					],
+					[
+						97166.67,
+						1,
+						0
+					],
+					[
+						97166.67,
+						5,
+						0
+					],
+					[
+						96166.6666666666,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						96499.9999999999,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						96833.3333333333,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						97249.9999999999,
+						3,
+						0,
+						"! Note"
+					],
+					[
+						97249.9999999999,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						96083.3333333333,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						96416.6666666666,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						96583.3333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						97166.6666666666,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						97249.9999999999,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						96083.3333333333,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						96249.9999999999,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						96083.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						96166.6666666666,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						96416.6666666666,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						96666.6666666666,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						97083.3333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						97083.3333333333,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						97166.6666666666,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						96083.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						96166.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						96249.9999999999,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						96416.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						96666.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						97083.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						97166.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						97333.3359,
+						0,
+						0
+					],
+					[
+						97333.3359,
+						4,
+						0
+					],
+					[
+						97500,
+						1,
+						0
+					],
+					[
+						97500,
+						5,
+						0
+					],
+					[
+						97666.67,
+						2,
+						0
+					],
+					[
+						97666.67,
+						6,
+						0
+					],
+					[
+						97833.3359,
+						1,
+						0
+					],
+					[
+						97833.3359,
+						5,
+						0
+					],
+					[
+						98000,
+						3,
+						0
+					],
+					[
+						98000,
+						7,
+						0
+					],
+					[
+						98166.67,
+						1,
+						0
+					],
+					[
+						98166.67,
+						5,
+						0
+					],
+					[
+						98250,
+						2,
+						0
+					],
+					[
+						98250,
+						6,
+						0
+					],
+					[
+						98333.3359,
+						3,
+						0
+					],
+					[
+						98333.3359,
+						7,
+						0
+					],
+					[
+						98500,
+						0,
+						0
+					],
+					[
+						98500,
+						4,
+						0
+					],
+					[
+						97416.6666666666,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						97666.6666666666,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						98333.3333333333,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						98499.9999999999,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						97999.9999999999,
+						0,
+						0,
+						"! Note"
+					],
+					[
+						97999.9999999999,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						97583.3333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						97833.3333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						98166.6666666666,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						98333.3333333333,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						97333.3333333333,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						97416.6666666666,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						97499.9999999999,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						97583.3333333333,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						97833.3333333333,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						97749.9999999999,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						97999.9999999999,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						98083.3333333333,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						98166.6666666666,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						98249.9999999999,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						98583.3333333333,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						97333.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						97416.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						97499.9999999999,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						97583.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						97833.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						97749.9999999999,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						98083.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						98166.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						98249.9999999999,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						98583.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						98666.67,
+						2,
+						666.6667
+					],
+					[
+						98666.67,
+						6,
+						666.6667
+					],
+					[
+						99666.67,
+						1,
+						0
+					],
+					[
+						99833.3359,
+						1,
+						0
+					],
+					[
+						99916.67,
+						3,
+						416.6667
+					],
+					[
+						98666.6666666666,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						98749.9999999999,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						98916.6666666666,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						98999.9999999999,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						98999.9999999999,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						99083.3333333333,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						99083.3333333333,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						99166.6666666666,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						99166.6666666666,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						99249.9999999999,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						99249.9999999999,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						99333.3333333333,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						99333.3333333333,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						99333.3333333333,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						99249.9999999999,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						99166.6666666666,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						98999.9999999999,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						99083.3333333333,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						98916.6666666666,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						98999.9999999999,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						99166.6666666666,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						98666.6666666666,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						98749.9999999999,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						98833.3333333333,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						98916.6666666666,
+						4,
+						0,
+						"Poison Note"
+					],
+					[
+						98833.3333333333,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						98833.3333333333,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						98666.6666666666,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						98749.9999999999,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						98916.6666666666,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						98833.3333333333,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						99083.3333333333,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						99249.9999999999,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						99333.3333333333,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						99666.6666666666,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						99833.3333333333,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						99916.6666666666,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						99666.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						99833.3333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						99916.6666666666,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						100500,
+						3,
+						0
+					],
+					[
+						100583.336,
+						2,
+						166.666672
+					],
+					[
+						100833.336,
+						0,
+						0
+					],
+					[
+						101166.672,
+						1,
+						250
+					],
+					[
+						100500,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						100583.333333333,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						100833.333333333,
+						4,
+						0,
+						"Questionmark Note"
+					],
+					[
+						100500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						100583.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						100833.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						101500,
+						0,
+						0
+					],
+					[
+						101583.336,
+						3,
+						0
+					],
+					[
+						101666.672,
+						1,
+						250
+					],
+					[
+						102000,
+						2,
+						250
+					],
+					[
+						102333.336,
+						0,
+						0
+					],
+					[
+						101500,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						101583.333333333,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						101666.666666667,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						101833.333333333,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						101916.666666667,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						102000,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						101583.333333333,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						101583.333333333,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						101500,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						101500,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						101666.666666667,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						101666.666666667,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						101750,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						101750,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						101750,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						101833.333333333,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						101833.333333333,
+						7,
+						0,
+						"Poison Note"
+					],
+					[
+						101916.666666667,
+						5,
+						0,
+						"Poison Note"
+					],
+					[
+						101916.666666667,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						102000,
+						6,
+						0,
+						"Poison Note"
+					],
+					[
+						102000,
+						7,
+						0,
+						"Poison Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						102666.672,
+						3,
+						0
+					],
+					[
+						102833.336,
+						3,
+						0
+					],
+					[
+						102916.672,
+						2,
+						0
+					],
+					[
+						103000,
+						0,
+						0
+					],
+					[
+						103166.672,
+						1,
+						0
+					],
+					[
+						103333.336,
+						3,
+						0
+					],
+					[
+						103500,
+						2,
+						0
+					],
+					[
+						103666.672,
+						0,
+						0
+					],
+					[
+						103833.336,
+						1,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						104000,
+						2,
+						666.6667
+					],
+					[
+						104000,
+						6,
+						666.6667
+					],
+					[
+						105000,
+						1,
+						0
+					],
+					[
+						105166.672,
+						1,
+						0
+					],
+					[
+						105250,
+						3,
+						333.333344
+					],
+					[
+						104000,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						104083.333333333,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						104166.666666667,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						104166.666666667,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						104166.666666667,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						104083.333333333,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						104000,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						104250,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						104250,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						104250,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						104333.333333333,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						104333.333333333,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						104333.333333333,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						104416.666666667,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						104416.666666667,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						104416.666666667,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						104500,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						104500,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						104500,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						104583.333333333,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						104583.333333333,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						104583.333333333,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						104666.666666667,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						104666.666666667,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						104666.666666667,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						104000,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						104083.333333333,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						104166.666666667,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						104333.333333333,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						104416.666666667,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						104583.333333333,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						104666.666666667,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						104500,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						104250,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						105083.333333333,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						105250,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						105083.333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						105250,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						105250,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						105166.666666667,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						105166.666666667,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						105083.333333333,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						105083.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						105166.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						105250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						105833.336,
+						3,
+						0
+					],
+					[
+						105916.672,
+						2,
+						166.666672
+					],
+					[
+						106166.672,
+						0,
+						0
+					],
+					[
+						106500,
+						1,
+						250
+					],
+					[
+						105666.666666667,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						105416.666666667,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						105833.333333333,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						106250,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						106333.333333333,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						105583.333333333,
+						2,
+						0,
+						"! Note"
+					],
+					[
+						105583.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						105333.333333333,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						105500,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						105666.666666667,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						106000,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						106333.333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						106500,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						106583.333333333,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						105333.333333333,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						105583.333333333,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						105750,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						106250,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						106416.666666667,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						105333.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						105750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						106250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						106416.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						106833.336,
+						0,
+						0
+					],
+					[
+						106916.672,
+						3,
+						0
+					],
+					[
+						107000,
+						1,
+						250
+					],
+					[
+						107333.336,
+						2,
+						250
+					],
+					[
+						107666.672,
+						0,
+						0
+					],
+					[
+						107250,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						107583.333333333,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						106833.333333333,
+						2,
+						0,
+						"! Note"
+					],
+					[
+						106833.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						106666.666666667,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						107000,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						107083.333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						107166.666666667,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						107333.333333333,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						107750,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						107833.333333333,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						107916.666666667,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						107583.333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						106750,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						107500,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						107916.666666667,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						106750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						107500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						107916.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						108000,
+						3,
+						0
+					],
+					[
+						108166.672,
+						3,
+						0
+					],
+					[
+						108250,
+						2,
+						0
+					],
+					[
+						108333.336,
+						0,
+						0
+					],
+					[
+						108500,
+						1,
+						0
+					],
+					[
+						108666.672,
+						3,
+						0
+					],
+					[
+						108833.336,
+						2,
+						0
+					],
+					[
+						109000,
+						0,
+						0
+					],
+					[
+						109166.672,
+						1,
+						0
+					],
+					[
+						108500,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						108750,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						108083.333333333,
+						1,
+						0,
+						"! Note"
+					],
+					[
+						108083.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						108333.333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						108583.333333333,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						108666.666666667,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						108833.333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						109250,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						109166.666666667,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						108000,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						108166.666666667,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						108333.333333333,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						108500,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						108583.333333333,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						108750,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						108916.666666667,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						109083.333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						108000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						108166.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						108333.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						108500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						108583.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						108750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						108916.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						109083.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						109333.336,
+						1,
+						0
+					],
+					[
+						109416.672,
+						3,
+						0
+					],
+					[
+						109500,
+						0,
+						0
+					],
+					[
+						109583.336,
+						3,
+						0
+					],
+					[
+						109833.336,
+						3,
+						0
+					],
+					[
+						110000,
+						1,
+						0
+					],
+					[
+						110250,
+						1,
+						0
+					],
+					[
+						110500,
+						0,
+						0
+					],
+					[
+						109333.333333333,
+						5,
+						0,
+						"! Note"
+					],
+					[
+						109416.666666667,
+						7,
+						0,
+						"! Note"
+					],
+					[
+						109500,
+						4,
+						0,
+						"! Note"
+					],
+					[
+						109583.333333333,
+						7,
+						0,
+						"! Note"
+					],
+					[
+						109833.333333333,
+						7,
+						0,
+						"! Note"
+					],
+					[
+						110000,
+						5,
+						0,
+						"! Note"
+					],
+					[
+						110250,
+						5,
+						0,
+						"! Note"
+					],
+					[
+						110500,
+						4,
+						0,
+						"! Note"
+					],
+					[
+						109333.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						109416.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						109500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						109583.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						109833.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						110000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						110250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						110500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						110833.336,
+						2,
+						0
+					],
+					[
+						111000,
+						3,
+						83.3333359
+					],
+					[
+						111166.672,
+						1,
+						0
+					],
+					[
+						111333.336,
+						1,
+						0
+					],
+					[
+						111583.336,
+						1,
+						0
+					],
+					[
+						111833.336,
+						3,
+						0
+					],
+					[
+						110833.333333333,
+						6,
+						0,
+						"Questionmark Note"
+					],
+					[
+						111000,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						111166.666666667,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						111333.333333333,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						111583.333333333,
+						5,
+						0,
+						"Questionmark Note"
+					],
+					[
+						111833.333333333,
+						7,
+						0,
+						"Questionmark Note"
+					],
+					[
+						110833.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						111000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						111166.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						111333.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						111583.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						111833.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						112083.336,
+						1,
+						0
+					],
+					[
+						112166.672,
+						3,
+						0
+					],
+					[
+						112250,
+						0,
+						0
+					],
+					[
+						112333.336,
+						3,
+						0
+					],
+					[
+						112583.336,
+						3,
+						0
+					],
+					[
+						112666.672,
+						1,
+						0
+					],
+					[
+						112916.672,
+						1,
+						0
+					],
+					[
+						113166.672,
+						2,
+						250
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						113500,
+						2,
+						0
+					],
+					[
+						113666.672,
+						3,
+						0
+					],
+					[
+						113750,
+						1,
+						0
+					],
+					[
+						113833.336,
+						0,
+						0
+					],
+					[
+						114000,
+						1,
+						0
+					],
+					[
+						114166.672,
+						3,
+						0
+					],
+					[
+						114250,
+						1,
+						0
+					],
+					[
+						114333.336,
+						0,
+						0
+					],
+					[
+						114500,
+						3,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						114666.672,
+						1,
+						0
+					],
+					[
+						114666.672,
+						6,
+						333.333344
+					],
+					[
+						114750,
+						3,
+						0
+					],
+					[
+						114833.336,
+						0,
+						0
+					],
+					[
+						114916.672,
+						3,
+						0
+					],
+					[
+						115166.672,
+						3,
+						0
+					],
+					[
+						115333.336,
+						1,
+						0
+					],
+					[
+						115583.336,
+						1,
+						0
+					],
+					[
+						115833.336,
+						0,
+						0
+					],
+					[
+						114916.666666667,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						115250,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						115416.666666667,
+						2,
+						0,
+						"! Note"
+					],
+					[
+						115416.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						114833.333333333,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						115083.333333333,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						115416.666666667,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						115250,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						115833.333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						115750,
+						1,
+						0,
+						"Poison Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						116166.672,
+						2,
+						0
+					],
+					[
+						116333.336,
+						3,
+						83.3333359
+					],
+					[
+						116500,
+						1,
+						0
+					],
+					[
+						116666.672,
+						1,
+						0
+					],
+					[
+						116916.672,
+						1,
+						0
+					],
+					[
+						117166.672,
+						3,
+						0
+					],
+					[
+						116166.666666667,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						117000,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						116000,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						116333.333333333,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						116666.666666667,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						116750,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						116916.666666667,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						117166.666666667,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						117083.333333333,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						117250,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						116000,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						116083.333333333,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						116250,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						116416.666666667,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						116583.333333333,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						116750,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						116833.333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						117000,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						117250,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						116000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						116083.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						116250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						116416.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						116583.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						116750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						116833.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						117000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						117250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						117416.672,
+						1,
+						0
+					],
+					[
+						117500,
+						3,
+						0
+					],
+					[
+						117583.336,
+						0,
+						0
+					],
+					[
+						117666.672,
+						3,
+						0
+					],
+					[
+						117916.672,
+						3,
+						0
+					],
+					[
+						118000,
+						1,
+						0
+					],
+					[
+						118250,
+						1,
+						0
+					],
+					[
+						118500,
+						2,
+						250
+					],
+					[
+						118083.333333333,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						117333.333333333,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						117416.666666667,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						117666.666666667,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						117833.333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						117833.333333333,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						118166.666666667,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						118333.333333333,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						118416.666666667,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						118500,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						117333.333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						117500,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						117666.666666667,
+						1,
+						0,
+						"Questionmark Note"
+					],
+					[
+						117833.333333333,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						118000,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						118000,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						118250,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						118416.666666667,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						118333.333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						117333.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						117500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						117666.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						117833.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						118000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						118083.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						118250,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						118333.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						118416.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						118833.336,
+						2,
+						0
+					],
+					[
+						119000,
+						3,
+						0
+					],
+					[
+						119083.336,
+						1,
+						0
+					],
+					[
+						119166.672,
+						0,
+						0
+					],
+					[
+						119333.336,
+						1,
+						0
+					],
+					[
+						119500,
+						3,
+						0
+					],
+					[
+						119583.336,
+						1,
+						0
+					],
+					[
+						119666.672,
+						0,
+						0
+					],
+					[
+						119833.336,
+						3,
+						0
+					],
+					[
+						119333.333333333,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						119916.666666667,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						118666.666666667,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						118750,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						118916.666666667,
+						0,
+						0,
+						"Poison Note"
+					],
+					[
+						118916.666666667,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						119166.666666667,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						119333.333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						119500,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						119666.666666667,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						119833.333333333,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						119916.666666667,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						118750,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						118750,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						119166.666666667,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						119416.666666667,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						119583.333333333,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						119750,
+						2,
+						0,
+						"Questionmark Note"
+					],
+					[
+						118750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						118833.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						119166.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						119416.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						119583.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						119750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						120000,
+						2,
+						833.3334
+					],
+					[
+						120000,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						120083.333333333,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						120000,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						120083.333333333,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						120166.666666667,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						120166.666666667,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						120000,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						120083.333333333,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						120166.666666667,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						120166.666666667,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						120250,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						120250,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						120250,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						120250,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						120333.333333333,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						120333.333333333,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						120333.333333333,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						120333.333333333,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						120416.666666667,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						120416.666666667,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						120416.666666667,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						120416.666666667,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						120500,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						120500,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						120500,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						120500,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						120583.333333333,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						120583.333333333,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						120583.333333333,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						120583.333333333,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						120666.666666667,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						120666.666666667,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						120666.666666667,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						120666.666666667,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						120750,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						120750,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						120750,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						120750,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						120833.333333333,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						120833.333333333,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						120833.333333333,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						120833.333333333,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						121083.333333333,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						121083.333333333,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						121083.333333333,
+						3,
+						0,
+						"Poison Note"
+					],
+					[
+						121083.333333333,
+						0,
+						0,
+						"Poison Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						121333.333333333,
+						0,
+						0,
+						"! Note"
+					],
+					[
+						121333.333333333,
+						1,
+						0,
+						"! Note"
+					],
+					[
+						121500,
+						2,
+						0,
+						"! Note"
+					],
+					[
+						121500,
+						3,
+						0,
+						"! Note"
+					],
+					[
+						121666.666666667,
+						0,
+						0,
+						"! Note"
+					],
+					[
+						121666.666666667,
+						1,
+						0,
+						"! Note"
+					],
+					[
+						121750,
+						2,
+						0,
+						"! Note"
+					],
+					[
+						121750,
+						3,
+						0,
+						"! Note"
+					],
+					[
+						121916.666666667,
+						0,
+						0,
+						"! Note"
+					],
+					[
+						121916.666666667,
+						1,
+						0,
+						"! Note"
+					],
+					[
+						122000,
+						2,
+						0,
+						"! Note"
+					],
+					[
+						122000,
+						3,
+						0,
+						"! Note"
+					],
+					[
+						121333.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						121416.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						121500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						121583.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						121666.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						121750,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						121833.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						121916.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						122000,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						122083.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						122166.666666667,
+						1,
+						0,
+						"Poison Note"
+					],
+					[
+						122250,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						122166.666666667,
+						2,
+						0,
+						"Poison Note"
+					],
+					[
+						122416.666666667,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						122500,
+						3,
+						0,
+						"Questionmark Note"
+					],
+					[
+						122583.333333333,
+						0,
+						0,
+						"Questionmark Note"
+					],
+					[
+						122416.666666667,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						122500,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					],
+					[
+						122583.333333333,
+						-1,
+						"Play Animation",
+						"dodge",
+						"BF"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 180
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 180
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 180
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 180
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 180
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 180,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 180
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 180,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"player3": "gf-car",
+		"song": "milf",
+		"needsVoices": true,
+		"validScore": true,
+		"speed": 2.6,
+		"bpm": 180
+	}
+}

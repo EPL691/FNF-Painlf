@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Painlf",
+			"mom",
+			[
+				10,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"weekCharacters": [
+		"mom",
+		"bf",
+		"gf"
+	],
+	"storyName": "Dont play this",
+	"weekName": "Painlf",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
